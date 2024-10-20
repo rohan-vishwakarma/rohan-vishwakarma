@@ -8,9 +8,11 @@ I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about deve
 
 ## 💼 Professional Experience
 
+- **Warehouse Management System**  
+  Worked on a warehouse management system with features including inward/outward processing, billing, and stock management.
+
 - **Invoicing Web App** (Laravel, CRM, Invoice Generation, Credit Notes)  
   Developed an invoicing web application with modules to manage customer relationships, generate invoices, and issue credit notes.
-
 
 - **Security and Facility Website Frontend**  
   Designed and implemented the frontend of a security and facility management website.
