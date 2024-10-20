@@ -1,6 +1,6 @@
 # Rohan Vishwakarma
 
-**MSc IT Graduate | Software Developer | Data Engineering Enthusiast**
+**MSc IT Graduate | Software Engineer | Data Engineering Enthusiast**
 
 I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
