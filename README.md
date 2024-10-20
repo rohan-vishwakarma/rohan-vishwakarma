@@ -2,8 +2,7 @@
 
 **MSc IT Graduate | Software Developer | Data Engineering Enthusiast**
 
-I am a passionate developer with experience in backend development, API design, and data engineering. My primary focus is on creating efficient, scalable solutions using technologies such as Node.js, Flask, AWS, and Docker. I’m also exploring performance evaluation of ETL processes, big data frameworks, and cryptocurrency prediction models.
-
+I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 ---
 
 ## 💼 Professional Experience
