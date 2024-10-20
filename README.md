@@ -11,8 +11,6 @@ I am a passionate developer with experience in backend development, API design, 
 - **Invoicing Web App** (Laravel, CRM, Invoice Generation, Credit Notes)  
   Developed an invoicing web application with modules to manage customer relationships, generate invoices, and issue credit notes.
 
-- **API for Large Physics Problem Database**  
-  Built a robust API for managing and searching through a large physics problem dataset, including automated test generation and AI-based search.
 
 - **Security and Facility Website Frontend**  
   Designed and implemented the frontend of a security and facility management website.
@@ -21,12 +19,12 @@ I am a passionate developer with experience in backend development, API design, 
 
 ## 🛠️ Skills & Technologies
 
-- **Backend Development**: Node.js, Flask, Laravel
-- **Database Management**: MySQL, MongoDB
-- **Big Data & ETL**: Hadoop, Apache Spark, RabbitMQ, Kafka
-- **Cloud Services**: AWS (Lambda, S3), Docker, Docker Compose
-- **Front-End Development**: HTML, CSS, JavaScript
-- **Version Control**: Git, GitHub
+- **Backend Development**: - Python, Flask, Laravel
+- **Database Management**: MySQL
+- **Big Data & ETL**: Apache Spark, Pandas, 
+- **Cloud Services**: AWS (EC2, VPC, Lambda, S3), Docker
+- **Front-End Development**: HTML, CSS, JavaScript, Tailwind, Bootstrap
+- **Version Control**: Git, GitHub, Gitlab
 
 ---
 
@@ -34,9 +32,6 @@ I am a passionate developer with experience in backend development, API design, 
 
 - **Performance Evaluation of RabbitMQ and Kafka for ETL Processes Using Amazon Product Data on Hadoop Clusters**  
   Evaluating message queue systems (RabbitMQ, Kafka) for ETL processes to compare their efficiency using Amazon product datasets.
-
-- **Data Analytics Dashboard for Cryptocurrency Prediction**  
-  Developing a web application that predicts cryptocurrency prices using real-time data and AI models.
 
 ---
 
@@ -51,7 +46,7 @@ I am a passionate developer with experience in backend development, API design, 
 
 ## 📫 Contact Me
 
-- **Email**: rohan.vishwakarma@example.com
+- **Email**: rohanvishwakarma685@gmail.com
 - **LinkedIn**: [linkedin.com/in/rohanvishwakarma](#)
 - **GitHub**: [github.com/rohanvishwakarma](#)
 
