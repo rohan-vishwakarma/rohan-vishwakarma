@@ -55,6 +55,5 @@ I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about deve
 ## 📝 Research Topics
 
 - Performance Evaluation of MapReduce and Apache Spark for ETL Processes
-- Research gap exploration: Cryptocurrency prediction models using AI
 
 Feel free to reach out if you'd like to collaborate or learn more about my work!
