@@ -2,8 +2,9 @@
 
 **MSc IT Graduate | Software Developer | Data Engineering Enthusiast**
 
-**I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
-**---
+I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+
+---
 
 ## 💼 Professional Experience
 
