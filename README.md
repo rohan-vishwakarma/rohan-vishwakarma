@@ -25,7 +25,7 @@ I am Rohan, a Full Stack Software Engineer from 🇮🇳   passionate about deve
 - **Operating System** : Ubuntu, Window 8/10/11
 - **Database Management**: MySQL
 - **Big Data & ETL**: Apache Spark, Pandas
-- **Cloud Services**: AWS (EC2, VPC, Lambda, S3), Docker
+- **Cloud Services**: AWS (EC2, VPC, Lambda, S3), GCP (Cloud Task, Cloud Storage, Logging)
 - **Front-End Development**: HTML, CSS, JavaScript, Tailwind, Bootstrap
 - **Version Control**: Git, GitHub, Gitlab
 
